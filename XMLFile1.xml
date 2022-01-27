@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<character>
+	<name>john</name>
+	<role>Solo</role>
+	<ip>0</ip>
+
+	<stats>
+		<INT>6</INT>
+		<REF>6</REF>
+		<DEX>6</DEX>
+		<TECH>6</TECH>
+		<COOL>6</COOL>
+		<WILL>6</WILL>
+		<LUCK>6</LUCK>
+		<cLuck>6</cLuck>
+		<MOVE>6</MOVE>
+		<BODY>6</BODY>
+		<EMP>6</EMP>
+	</stats>
+
+	<skills>
+
+		<skill>
+			<name>atheltics</name>
+			<statName>BODY</statName>
+			<bonus>6</bonus>
+			<stat>8</stat>
+		</skill>
+
+	</skills>
+</character>
